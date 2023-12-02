@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Я папка №1"),console.log("Я папка №2")})();
